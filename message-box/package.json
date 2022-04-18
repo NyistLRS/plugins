@@ -1,0 +1,14 @@
+{
+  "name": "message-box",
+  "version": "1.0.0",
+  "description": "消息提示插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "godluckly",
+  "license": "ISC"
+}
